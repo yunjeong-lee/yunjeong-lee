@@ -1,11 +1,11 @@
 ## Hi there 👋, I'm Yunjeong Lee
 
-🔭 I'm a PhD student at National University of Singapore
-🌱 I’m currently exploring:
-   - repair tool for ambiguous context-free grammars based on automata theory
-   - solver-aided transpiler synthesis for translating an obscure language to familiar language
-   - a meta-DSL prompt generation for teaching LLM a new DSL
-📫 How to reach me: [yunjeong.lee@u.nus.edu](mailto:yunjeong.lee@u.nus.edu)
+- 🔭 I'm a PhD student at National University of Singapore
+- 🌱 I’m currently exploring:
+  + repair tool for ambiguous context-free grammars based on automata theory
+  + solver-aided transpiler synthesis for translating an obscure language to familiar language
+  + a meta-DSL prompt generation for teaching LLM a new DSL
+- 📫 How to reach me: [yunjeong.lee@u.nus.edu](mailto:yunjeong.lee@u.nus.edu)
 
 <!--
 **yunjeong-lee/yunjeong-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
