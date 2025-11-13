@@ -2,8 +2,7 @@
 
 - 🔭 I'm a PhD student at National University of Singapore
 - 🌱 I’m currently exploring:
-  + repair tool for ambiguous context-free grammars based on automata theory
-  + solver-aided transpiler synthesis for translating an obscure language to familiar language
+  + solver-aided transpiler synthesis for translating an esoteric language to a simpler language
   + a meta-DSL prompt generation for teaching LLM a new DSL
 - 📫 How to reach me: [yunjeong.lee@u.nus.edu](mailto:yunjeong.lee@u.nus.edu)
 
