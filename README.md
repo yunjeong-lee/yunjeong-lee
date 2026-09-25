@@ -1,8 +1,11 @@
 ## Hi there 👋, I'm Yunjeong Lee
 
-- 🔭 I'm a lecturer at Singapore University of Science and Technology
-- 🌱 I’m currently exploring:
-  + solver-aided transpiler synthesis for translating an esoteric language to a simpler language
+- 🔭 I'm a lecturer at the Singapore University of Science and Technology (SUTD)
+- 🔬 I work on programming languages, language design, and developer tools
+- 🌱 I’m currently interested in:
+  + domain-specific languages and metaprogramming
+  + programming languages education
+  + program synthesis and automated language tooling
   + a meta-DSL prompt generation for teaching LLM a new DSL
 - 📫 How to reach me: [yunjeong_lee@sutd.edu.sg](mailto:yunjeong_lee@sutd.edu.sg)
 
