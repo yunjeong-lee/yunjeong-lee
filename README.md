@@ -1,10 +1,10 @@
 ## Hi there 👋, I'm Yunjeong Lee
 
-- 🔭 I'm a PhD student at National University of Singapore
+- 🔭 I'm a lecturer at Singapore University of Science and Technology
 - 🌱 I’m currently exploring:
   + solver-aided transpiler synthesis for translating an esoteric language to a simpler language
   + a meta-DSL prompt generation for teaching LLM a new DSL
-- 📫 How to reach me: [yunjeong.lee@u.nus.edu](mailto:yunjeong.lee@u.nus.edu)
+- 📫 How to reach me: [yunjeong_lee@sutd.edu.sg](mailto:yunjeong_lee@sutd.edu.sg)
 
 <!--
 **yunjeong-lee/yunjeong-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
