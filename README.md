@@ -5,8 +5,7 @@
 - 🌱 I’m currently interested in:
   + domain-specific languages and metaprogramming
   + programming languages education
-  + program synthesis and automated language tooling
-  + a meta-DSL prompt generation for teaching LLM a new DSL
+  + a meta-DSL for teaching LLM a new DSL
 - 📫 How to reach me: [yunjeong_lee@sutd.edu.sg](mailto:yunjeong_lee@sutd.edu.sg)
 
 <!--
